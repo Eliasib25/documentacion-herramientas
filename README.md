@@ -17,7 +17,7 @@ mkdir nombre_carpeta
 cd nombre_carpeta
 ```
 
-![alt text](images/image.png)
+![alt text](images-readme/image.png)
 
 - Paso 2 
 
@@ -66,13 +66,13 @@ volumes:
     docker compose up -d
 ```
 
-![alt text](images/image-1.png)
+![alt text](images-readme/image-1.png)
 
 - Paso 4
 
 -- Si se cuenta con docker desktop, podemos ver dentro de la sección contenedores que está en ejecución nuestra orquestación
 
-![alt text](images/image-2.png)
+![alt text](images-readme/image-2.png)
 
 -- O puedes ejecutar el siguiente comando desde la terminal: 
 
